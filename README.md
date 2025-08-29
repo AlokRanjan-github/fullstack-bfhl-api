@@ -1,6 +1,6 @@
 # Fullstack BFHL API
 
-### 📌 Assignment Requirements
+###  Assignment Requirements
 Build a REST API that:
 - Accepts an array via POST request
 - Separates odd/even numbers
@@ -11,7 +11,7 @@ Build a REST API that:
 
 ---
 
-### 🚀 Run Locally
+###  Run Locally
 ```bash
 npm install
 npm start
